@@ -14,7 +14,7 @@ async function startBotol() {
         auth: state
 })
 
-console.log(color(figlet.textSync('KIZAKIXD', {
+console.log(color(figlet.textSync('Jasa bot by Faza', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
