@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/98198200/197541071-b8c98768-c56b-4a1a-b8cd-952b66aa0fb8.jpg
-" alt="Call Me FAZA" width="300" />
+<img src="https://user-images.githubusercontent.com/98198200/197541071-b8c98768-c56b-4a1a-b8cd-952b66aa0fb8.jpg" alt="Call Me FAZA" width="300" />
 
 Thanks All Contributor.
 
