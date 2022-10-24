@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://i.ibb.co/Lh6cc8R/5cb5dab3-c2ed-4119-90bb-b9d42a41fbf1.jpg" alt="Call Me Jeki" width="300" />
+<img src="![Screenshot_3](https://user-images.githubusercontent.com/98198200/197539471-2923f04a-f781-48c8-b325-153fbf2a7306.png)
+" alt="Call Me Jeki" width="300" />
 
 Thanks All Contributor.
 
