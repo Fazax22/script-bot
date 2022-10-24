@@ -14,7 +14,7 @@ module.exports = zaki = async (zaki, msg, m) => {
         const mime = (quoted.msg || quoted).mimetype || ''
 	    const isMedia = /image|video|sticker|audio/.test(mime)
 	
-	    const ownerNumber = [`6285878313791@s.whatsapp.net`]
+	    const ownerNumber = [`6288228085134@s.whatsapp.net`]
 	    const isOwner = ownerNumber.includes(m.sender)
 	    const groupMetadata = m.isGroup ? await zaki.groupMetadata(m.chat).catch(e => {}) : ''
         const groupName = m.isGroup ? groupMetadata.subject : ''
